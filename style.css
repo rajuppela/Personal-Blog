@@ -1,0 +1,105 @@
+body{
+    background-color: aliceblue;
+}
+h1 {
+    text-align: center;
+    color: mediumseagreen;
+    text-shadow: 1px 1px 0px  dimgray;
+}
+ul {
+    list-style-type: none;
+    background-color: cadetblue;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+.nav{
+    display: inline;
+    padding: 10px 12px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+  marquee {
+    margin-top: 30px;
+    background-color: thistle;
+    padding: 15px;
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-right: 15px;
+}
+h2 {
+    text-align: center;
+    color: darkgreen;
+}
+h3 {
+    color: slateblue;
+    font-style: oblique;
+    text-align: center;
+}
+.hobby1 {
+    color: #125688;
+}
+.hobby2 {
+    color: brown;
+}
+.hobby3 {
+    color: darkolivegreen;
+}
+#home, #hobbies, #details, #location {
+    padding: 20px;
+    margin-top: 20px;
+    color: red;
+}
+h4, p {
+    color: chocolate;
+}
+legend {
+    font-weight: bold;
+    font-style: oblique;
+}
+.hobby {
+    line-height: 35px;
+}
+fieldset {
+    box-shadow: 3px 5px 12px grey;
+    background-color: cornsilk;
+    border: none;
+}
+.down {
+    color: black;
+    font-weight: bold;
+}
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+margin-right: 15px;
+}
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+.fa-instagram {
+background: #125688;
+color: white;
+}
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+.fa-linkedin {
+background: #007bb5;
+color: white;
+}  
